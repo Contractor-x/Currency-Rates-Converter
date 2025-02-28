@@ -65,15 +65,7 @@ Output: 100 USD = 92.50 EUR
 
 ---
 
-## 🏆 Future Improvements
-🚀 Improve UI with modern styling (e.g., PyQt, custom Tkinter themes)  
-📈 Add currency conversion history and charts  
-🔄 Enable offline mode with cached exchange rates  
-📊 Support for cryptocurrency conversions  
-
----
-
-## 🤝 Contribution
+##  Contribution
 Feel free to fork this repository and submit pull requests! Suggestions and improvements are always welcome. 😊
 
 ---
