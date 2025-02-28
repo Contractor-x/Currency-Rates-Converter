@@ -36,7 +36,7 @@ python currency_converter_gui.py
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 📁 Currency Converter Project
 │── currency_backend.py   # Backend - Fetches exchange rates & converts currency
