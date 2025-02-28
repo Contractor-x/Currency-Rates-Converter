@@ -54,7 +54,7 @@ python currency_converter_gui.py
 
 ---
 
-## 🎯 Example
+## Example
 ```
 Amount: 100
 From Currency: USD
