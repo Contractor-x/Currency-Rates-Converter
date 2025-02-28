@@ -2,7 +2,7 @@
 
 A **Python-based Currency Converter** with a **GUI (Tkinter) frontend** and a **separate backend module** for real-time exchange rate fetching. This project allows users to convert between different currencies using live exchange rates from the [ExchangeRate-API](https://www.exchangerate-api.com/).
 
-## ✨ Features
+## Features
 ✅ Real-time currency conversion using an API
 ✅ Simple and user-friendly GUI (Tkinter)
 ✅ Supports multiple currencies
