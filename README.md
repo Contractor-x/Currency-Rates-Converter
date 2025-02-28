@@ -71,7 +71,7 @@ Feel free to fork this repository and submit pull requests! Suggestions and impr
 ---
 
 ## ⚡ Author
-👨‍💻 **Your Name**  
+👨‍💻 **Collins Dada**  
 🔗 https://github.com/Contractor-x  
 📧 dada4ash@gmail.com  
 
