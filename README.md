@@ -46,7 +46,7 @@ python currency_converter_gui.py
 
 ---
 
-## 🛠 Usage
+## Usage
 1️⃣ Enter the **amount** you want to convert.  
 2️⃣ Specify the **base currency** (e.g., USD).  
 3️⃣ Specify the **target currency** (e.g., EUR).  
