@@ -69,7 +69,7 @@ Output: 100 USD = 92.50 EUR
 Feel free to fork this repository and submit pull requests! Suggestions and improvements are always welcome. 😊
 
 ---
-<!-- 123456789012  -->
+<!-- 1234567890123  -->
 ## ⚡ Author
 Github @ Contractor-x
 
