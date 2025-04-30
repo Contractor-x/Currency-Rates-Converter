@@ -1,4 +1,4 @@
-# Currency Converter
+7# Currency Converter
 ---
 A **Python-based Currency Converter** with a **GUI (Tkinter) frontend** and a **separate backend module** for real-time exchange rate fetching. This project allows users to convert between different currencies using live exchange rates from the [ExchangeRate-API](https://www.exchangerate-api.com/).
 
@@ -69,7 +69,7 @@ Output: 100 USD = 92.50 EUR
 Feel free to fork this repository and submit pull requests! Suggestions and improvements are always welcome. 😊
 
 ---
-<!-- 1234567890123456  -->
+<!-- 12345678901234567  -->
 ## ⚡ Author
 Github @ Contractor-x
 
