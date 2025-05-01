@@ -75,7 +75,7 @@ Feel free to fork this repository and submit pull requests! Suggestions and impr
 ---
 <!-- 12345678901234567890  -->
 ## ⚡ Author
-Github @ Contractor-x
+Github @ Contractor-x.
 
 
 ---
