@@ -4,9 +4,13 @@ A **Python-based Currency Converter** with a **GUI (Tkinter) frontend** and a **
 
 ## Features
 ✅ Real-time currency conversion using an API
+
 ✅ Simple and user-friendly GUI (Tkinter)
+
 ✅ Supports multiple currencies
+
 ✅ Error handling for invalid inputs
+
 ✅ Modular code (separate frontend and backend)
 
 ---
